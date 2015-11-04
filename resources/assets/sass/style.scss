@@ -1,0 +1,21 @@
+table#books {
+  td:last-child {
+    width: 150px;
+    form {
+      float:left;
+      margin-right: 5px;
+    }
+  }
+}
+
+.margin-10 {
+  margin: 10px;
+}
+
+.white {
+  color: #ffffff!important;
+}
+
+.error-message {
+  color: #AA0000;
+}
